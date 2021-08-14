@@ -577,7 +577,6 @@
 
 - Namespace，命名空间，名称空间
 - native code，本机代码
-- NCC，.NET Core 社区（.NET Core Community）/.NET 中国社区（.NET China Community）
 - Near Field Communication，近距离无线通信（NFC）
 - network hops，网络跳数
 - NFC，近距离无线通信（Near Field Communication）
